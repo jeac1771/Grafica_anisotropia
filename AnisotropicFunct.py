@@ -20,6 +20,8 @@ print('hola soy pablo y estoy hablando por git')
 
 print('modificado desde la pagina GIT')
 
+print('test3')
+
 def table_example():
     sg.SetOptions(auto_size_buttons=True)
     filename = sg.PopupGetFile('filename to open', no_window=True, file_types=(("CSV Files", "*.csv"),))
