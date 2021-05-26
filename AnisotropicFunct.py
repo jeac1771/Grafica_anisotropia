@@ -5,7 +5,7 @@ Created on Tue Apr 21 11:12:08 2020
 @author: Jorge Alvarez Correa
 """
 
-print('Ahora yo hago un comentario')
+print('Ahora yo hago un comentario: Seba')
 
 import sys
 import PySimpleGUI as sg
