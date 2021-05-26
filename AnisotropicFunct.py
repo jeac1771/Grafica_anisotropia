@@ -16,6 +16,8 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolb
 from matplotlib import cm
 import matplotlib.patches as mpatch
 
+print('hola soy pablo y estoy hablando por git')
+
 
 
 def table_example():
