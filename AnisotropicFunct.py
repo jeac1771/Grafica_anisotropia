@@ -19,7 +19,9 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolb
 from matplotlib import cm
 import matplotlib.patches as mpatch
 
+print('hola soy pablo y estoy hablando por git')
 
+print('modificado desde la pagina GIT')
 
 def table_example():
     sg.SetOptions(auto_size_buttons=True)
