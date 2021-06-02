@@ -20,7 +20,7 @@ print('hola soy pablo y estoy hablando por git')
 
 print('modificado desde la pagina GIT')
 
-print('test3')
+print('test32')
 
 def table_example():
     sg.SetOptions(auto_size_buttons=True)
